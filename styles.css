@@ -6,3 +6,72 @@
   font-weight: 400;
   font-style: normal;
 }
+
+body {
+  background-color: hsl(47, 88%, 63%);
+  min-height: 100vw ;
+}
+
+.container {
+  border: 1px solid #080808;
+  border-radius: 15px;
+  width: 375px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 5px 5px #080808;
+}
+
+.main-pic {
+ padding: 20px;
+ border-radius: 20px;
+ margin-bottom: 0px;
+}
+
+.text {
+ padding: 20px;
+}
+ 
+h3 {
+  background-color: hsl(47, 88%, 63%);
+  padding: 7px 12px;
+  font-weight: bold;
+  display: inline;
+  border-radius: 5px;
+  padding-top: 0px;
+  color: #080808;
+  padding-top: 7px;
+}
+
+#publish-date {
+ color: rgb(25, 25, 25);
+}
+
+h2 {
+  color: #080808;
+}
+
+#explanation {
+  color: hsl(0, 0%, 50%);
+}
+
+.name-and-pic {
+  padding-bottom: 20px;
+}
+
+.profile-pic {
+  display: inline;
+  width: 30px;
+  margin-left: 10px;
+}
+.name {
+  font-weight: bold;
+  display: inline;
+  margin-left: 5px;
+  padding-bottom: 50px;
+}
+
+.attribution {
+  color:rgb(25, 25, 25);
+  text-align: center;
+  margin-top: 20px;
+}
